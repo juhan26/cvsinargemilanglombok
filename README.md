@@ -1,4 +1,4 @@
-# CV Sinar Gemilang Lombok [(Website)](https://www.cvsinargemilanglombok.my.id)
+# CV Sinar Gemilang Lombok ([Website])(https://www.cvsinargemilanglombok.my.id)
 Ecommerce using Wordpress, Integration to Whatsapp with messages.
 
 ### Hero Section with Button Lihat Produk (redirect to /produk)
